@@ -5,3 +5,4 @@
 <h1 align="center">I'm <a href="https://github.com/Adrik144">Adrian<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
+<p>Currently studying ASIR</p>
